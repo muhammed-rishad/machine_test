@@ -1,0 +1,1 @@
+enum ProviderStatus { LOADED, LOADING, IDLE, ERROR, NETWORK_ERROR }
